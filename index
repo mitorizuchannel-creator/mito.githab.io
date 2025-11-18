@@ -6,6 +6,46 @@
     <title>mitoのポートフォリオ</title>
   </head>
   <body>
-    <h1>mito</h1>
+    <h1>黒尾美音子</h1>
+
+    <h2>About</h2>
+    
+
+    <h3>Profile</h3>
+    <ul>
+      <li>黒尾美音子</li>
+      <li>大阪府</li>
+      <li>イラスト制作・画像編集（Photoshop・illustrator）、3D（Blender）<br>
+動画編集（aftereffect）、楽曲制作など</li>
+    </ul>
+
+    
+
+    <h3>その他活動サイト</h3>
+    <ul>
+      <li><a href="https://x.com/mitorizu_02?s=20</a></li>
+      <li><a href="https://www.pixiv.net/users/44638490</a></li>
+      <li><a href="https://youtube.com/channel/UC7c9FKblLuSNhpXg2mhIZ_Q?si=tG9icGMH22VJHjLD</a></li>
+      <li>
+        作った作品
+        <ul>
+          <li><a href="https://example.com/">作品 1</a></li>
+          <li><a href="https://example.com/">作品 2</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>Contact</h3>
+    <p>連絡先や SNS のアカウントを書きましょう。</p>
+    <ul>
+      <li><a href="mailto:name@example.com">Mail</a></li>
+      <li><a href="https://twitter.com/n_yobikou">X(旧 Twitter)</a></li>
+      <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+    </ul>
+
+    <h3>経歴・実績など</h3>
+    <p>株式会社クリスタルロードでのインターン経験あり（画像編集・レタッチなど）<br>
+現在は週刊漫画ＴＩＭＥＳ（芳文社）で連載中「浪人生の彼女とスーパーで」の漫画家・ひろせみほのアシスタントとして線画、着色などの手伝いをしている。</p>
+
   </body>
 </html>
